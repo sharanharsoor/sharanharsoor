@@ -15,14 +15,20 @@
 
 ### About me
 
-I build AI systems that ship to production. 12+ years of engineering experience spanning embedded systems, cloud infrastructure, and AI — currently focused on **agentic AI**, **RAG pipelines**, and **LLM deployment at scale** at Red Hat.
+I build AI systems that ship to production. 12+ years of engineering experience spanning embedded systems, cloud infrastructure, and AI — currently part of the **Data and AI team at Red Hat**, focused on agentic AI, RAG pipelines, and LLM deployment.
 
 - 🔬 **AI Researcher** — Two papers submitted to NeurIPS 2026 (AmbiguityBench + cross-provider LLM behavioral audit)
-- 💡 **Patent Inventor** — 9 patents across Citrix, Cohesity, and Red Hat in generative AI, intelligent agents, and data security
+- 💡 **Patent Inventor** — 9 patents in generative AI, intelligent agents, and data security
 - 🎤 **Conference Speaker** — Delivered talk at DevConf.IN 2026, Pune on production RAG systems; talk selected at DevConf.CZ 2026
 - 📝 **Technical Writer** — 30+ articles on Medium · 26K+ reads · Topics: RAG, agentic AI, LLM observability, transformers
 
 ---
+
+### Projects
+
+| Project | Description | Link |
+|---------|-------------|------|
+| [**AntarDarshan**](https://github.com/sharanharsoor/antardarshan) | Production RAG system over 54 classical Indian philosophy texts — hybrid retrieval (BGE-M3 dense + sparse), cross-encoder reranker, Qdrant, FastAPI, Next.js | [antardarshan.org](https://antardarshan.org) |
 
 ### Open Source
 
