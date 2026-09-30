@@ -15,12 +15,12 @@
 
 ### About me
 
-I build AI systems that ship to production. 12+ years of engineering experience spanning embedded systems, cloud infrastructure, and AI — currently part of the **Data and AI team at Red Hat**, focused on agentic AI, RAG pipelines, and LLM deployment.
+I build AI systems that ship to production. 12+ years of engineering experience spanning embedded systems, cloud infrastructure, and AI, currently part of the **Data and AI team at Red Hat**, focused on agentic AI, RAG pipelines, and LLM deployment.
 
-- 💡 **Patent Inventor** — 10 invention disclosures and patents (1 issued + 9 filed) in generative AI, intelligent agents, and data security
-- 🎤 **Conference Speaker** — Delivered talk at DevConf.IN 2026, Pune on production RAG systems; talk selected at DevConf.CZ 2026
-- 🏆 **Hackathon Finalist** — Economic Times AI Hackathon 2026 (2nd Edition)
-- 📝 **Technical Writer** — 30+ articles on Medium · 26K+ reads · Topics: RAG, agentic AI, LLM observability, transformers
+- 💡 **Patent Inventor**: 10 invention disclosures and patents (1 issued + 9 filed) in generative AI, intelligent agents, and data security
+- 🎤 **Conference Speaker**: Delivered talk at DevConf.IN 2026, Pune on production RAG systems; talk selected at DevConf.CZ 2026
+- 🏆 **Hackathon Finalist**: Economic Times AI Hackathon 2026 (2nd Edition)
+- 📝 **Technical Writer**: 30+ articles on Medium · 26K+ reads · Topics: RAG, agentic AI, LLM observability, transformers
 
 ---
 
@@ -28,15 +28,15 @@ I build AI systems that ship to production. 12+ years of engineering experience 
 
 | Project | Description | Link |
 |---------|-------------|------|
-| [**Runkite**](https://github.com/getrunkite/runkite) | Open-source AI agent orchestration platform — self-hosted, framework-agnostic control plane for LangGraph, CrewAI, and custom agentic workflows | [getrunkite.github.io/runkite](https://getrunkite.github.io/runkite/) |
-| [**Chunking Strategy Library**](https://github.com/sharanharsoor/chunking) | Production-grade semantic text chunking with interactive visualization tool — thread-safe, streaming, adaptive retrieval feedback | [sharanharsoor.github.io/chunking](https://sharanharsoor.github.io/chunking/) |
-| [**AntarDarshan**](https://github.com/sharanharsoor/antardarshan) | Production RAG system over 54 classical Indian philosophy texts — hybrid retrieval (BGE-M3 dense + sparse), cross-encoder reranker, Qdrant, FastAPI, Next.js (currently offline for maintenance) | [GitHub](https://github.com/sharanharsoor/antardarshan) |
+| [**Runkite**](https://github.com/getrunkite/runkite) | Open-source AI agent orchestration platform: self-hosted, framework-agnostic control plane for LangGraph, CrewAI, and custom agentic workflows | [getrunkite.github.io/runkite](https://getrunkite.github.io/runkite/) |
+| [**Chunking Strategy Library**](https://github.com/sharanharsoor/chunking) | Production-grade semantic text chunking with interactive visualization tool (thread-safe, streaming, adaptive retrieval feedback) | [sharanharsoor.github.io/chunking](https://sharanharsoor.github.io/chunking/) |
+| [**AntarDarshan**](https://github.com/sharanharsoor/antardarshan) | Production RAG system over 54 classical Indian philosophy texts using hybrid retrieval (BGE-M3 dense + sparse), cross-encoder reranker, Qdrant, FastAPI, Next.js (currently offline for maintenance) | [GitHub](https://github.com/sharanharsoor/antardarshan) |
 
 ### Open Source
 
-Active contributor and maintainer of open-source AI/ML libraries — created tools for agent orchestration, document processing, and LLM workflows adopted by engineering teams globally.
+Active contributor and maintainer of open-source AI/ML libraries. Created tools for agent orchestration, document processing, and LLM workflows adopted by engineering teams globally.
 
-- **chunking-strategy**: `pip install chunking-strategy` — Production-grade semantic text chunking
+- **chunking-strategy**: `pip install chunking-strategy` (Production-grade semantic text chunking)
 - **Additional libraries**: Agent orchestration, LLM memory systems, and more at [github.com/sharanharsoor](https://github.com/sharanharsoor)
 
 ---
@@ -76,8 +76,8 @@ Active contributor and maintainer of open-source AI/ML libraries — created too
 
 <!-- These update manually — refresh when you publish new articles -->
 - [**Agent Skills: The Quiet Standard That's Changing How We Build AI Agents**](https://medium.com/@sharanharsoor/agent-skills-the-quiet-standard-thats-changing-how-we-build-ai-agents-53118b633401)
-- [**The Complete Guide to Embeddings and RAG: From Theory to Production**](https://medium.com/@sharanharsoor/the-complete-guide-to-embeddings-and-rag-from-theory-to-production-758a16d747ac) — 7.2K reads
-- [**Embeddings: A Deep Dive from Basics to Advanced Concepts**](https://medium.com/@sharanharsoor/embeddings-a-deep-dive-from-basics-to-advanced-concepts-f092765476fc) — 6K reads
+- [**The Complete Guide to Embeddings and RAG: From Theory to Production**](https://medium.com/@sharanharsoor/the-complete-guide-to-embeddings-and-rag-from-theory-to-production-758a16d747ac) (7.2K reads)
+- [**Embeddings: A Deep Dive from Basics to Advanced Concepts**](https://medium.com/@sharanharsoor/embeddings-a-deep-dive-from-basics-to-advanced-concepts-f092765476fc) (6K reads)
 - [**The Rise of MCP: How a "USB-C for AI" Is Reshaping Intelligent Systems**](https://medium.com/@sharanharsoor/the-rise-of-mcp-how-a-usb-c-for-ai-is-quietly-reshaping-the-future-of-intelligent-systems-9ea13acfcf20)
 - [**Understanding Mixture of Experts (MoE)**](https://medium.com/@sharanharsoor/understanding-mixture-of-experts-moe-the-architecture-powering-next-generation-language-models-49c1d1d467c9)
 
@@ -87,11 +87,11 @@ Active contributor and maintainer of open-source AI/ML libraries — created too
 
 ### Conference Talks
 
-- 🎤 **DevConf.IN 2026, Pune** — *"Why Your RAG System Hallucinates: Fixing the Content Segmentation Problem"*
+- 🎤 **DevConf.IN 2026, Pune**: *"Why Your RAG System Hallucinates: Fixing the Content Segmentation Problem"*
   · [Watch on YouTube](https://www.youtube.com/watch?v=N2FimF1i4wE) · [Talk Details](https://pretalx.devconf.info/devconf-in-2026/talk/ZZTD8P/)
-  · Demonstrated 40–60% retrieval accuracy improvement live
+  · Demonstrated 40-60% retrieval accuracy improvement live
 
-- 🎤 **DevConf.CZ 2026, Czech Republic** — *"Beyond Token Limits: Building Memory That Actually Works for LLM Agents"*
+- 🎤 **DevConf.CZ 2026, Czech Republic**: *"Beyond Token Limits: Building Memory That Actually Works for LLM Agents"*
   · Topic-aware LLM memory compression for agentic systems
 
 ---
