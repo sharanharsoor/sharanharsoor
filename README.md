@@ -17,9 +17,9 @@
 
 I build AI systems that ship to production. 12+ years of engineering experience spanning embedded systems, cloud infrastructure, and AI — currently part of the **Data and AI team at Red Hat**, focused on agentic AI, RAG pipelines, and LLM deployment.
 
-- 🔬 **AI Researcher** — Two papers submitted to NeurIPS 2026 (AmbiguityBench + cross-provider LLM behavioral audit)
-- 💡 **Patent Inventor** — 9 patents in generative AI, intelligent agents, and data security
+- 💡 **Patent Inventor** — 10 invention disclosures and patents (1 issued + 9 filed) in generative AI, intelligent agents, and data security
 - 🎤 **Conference Speaker** — Delivered talk at DevConf.IN 2026, Pune on production RAG systems; talk selected at DevConf.CZ 2026
+- 🏆 **Hackathon Finalist** — Economic Times AI Hackathon 2026 (2nd Edition)
 - 📝 **Technical Writer** — 30+ articles on Medium · 26K+ reads · Topics: RAG, agentic AI, LLM observability, transformers
 
 ---
@@ -28,14 +28,16 @@ I build AI systems that ship to production. 12+ years of engineering experience 
 
 | Project | Description | Link |
 |---------|-------------|------|
-| [**AntarDarshan**](https://github.com/sharanharsoor/antardarshan) | Production RAG system over 54 classical Indian philosophy texts — hybrid retrieval (BGE-M3 dense + sparse), cross-encoder reranker, Qdrant, FastAPI, Next.js | [antardarshan.org](https://antardarshan.org) |
+| [**Runkite**](https://github.com/getrunkite/runkite) | Open-source AI agent orchestration platform — self-hosted, framework-agnostic control plane for LangGraph, CrewAI, and custom agentic workflows | [getrunkite.github.io/runkite](https://getrunkite.github.io/runkite/) |
+| [**Chunking Strategy Library**](https://github.com/sharanharsoor/chunking) | Production-grade semantic text chunking with interactive visualization tool — thread-safe, streaming, adaptive retrieval feedback | [sharanharsoor.github.io/chunking](https://sharanharsoor.github.io/chunking/) |
+| [**AntarDarshan**](https://github.com/sharanharsoor/antardarshan) | Production RAG system over 54 classical Indian philosophy texts — hybrid retrieval (BGE-M3 dense + sparse), cross-encoder reranker, Qdrant, FastAPI, Next.js (currently offline for maintenance) | [GitHub](https://github.com/sharanharsoor/antardarshan) |
 
 ### Open Source
 
-| Library | Description | Install |
-|---------|-------------|---------|
-| [**chunking-strategy**](https://github.com/sharanharsoor/chunking) | Production-grade semantic text chunking — thread-safe, streaming, adaptive retrieval feedback | `pip install chunking-strategy` |
-| [**llm-smartmem**](https://github.com/sharanharsoor/llm-smartmem) | Smart memory management for LLM conversations — topic-aware compression for agentic systems | `pip install llm-smartmem` |
+Active contributor and maintainer of open-source AI/ML libraries — created tools for agent orchestration, document processing, and LLM workflows adopted by engineering teams globally.
+
+- **chunking-strategy**: `pip install chunking-strategy` — Production-grade semantic text chunking
+- **Additional libraries**: Agent orchestration, LLM memory systems, and more at [github.com/sharanharsoor](https://github.com/sharanharsoor)
 
 ---
 
@@ -90,7 +92,7 @@ I build AI systems that ship to production. 12+ years of engineering experience 
   · Demonstrated 40–60% retrieval accuracy improvement live
 
 - 🎤 **DevConf.CZ 2026, Czech Republic** — *"Beyond Token Limits: Building Memory That Actually Works for LLM Agents"*
-  · Related library: [llm-smartmem](https://github.com/sharanharsoor/llm-smartmem)
+  · Topic-aware LLM memory compression for agentic systems
 
 ---
 
